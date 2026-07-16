@@ -1,0 +1,9 @@
+Durante el curso aprendí que la tecnología puede facilitar la participación ciudadana
+al hacer más accesible el registro y seguimiento de apoyos comunitarios.
+Una plataforma como Petición en 3 Clics permite que cualquier persona pueda expresar su respaldoa una causa sin trámites complicados.
+También comprendí la importancia de diseñar sistemas que minimicen los datos personales,
+para proteger la privacidad de la comunidad.
+La generación automática de documentos formales ayuda a entregar resultados claros y confiables.
+Además, la integración con automatizaciones como n8n o Telegram permite notificar a los responsables de manera rápida.
+Esto fortalece la organización porque reduce la carga manual y mejora la transparencia.
+En conjunto, estas herramientas muestran cómo la tecnología puede unir a las personas y hacer más efectivos los procesos comunitarios.

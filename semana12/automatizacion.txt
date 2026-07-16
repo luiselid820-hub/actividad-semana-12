@@ -1,0 +1,8 @@
+Evento: nueva causa registrada
+Mensaje: “Se ha creado una nueva causa en la plataforma. Revisa la petición y comparte el respaldo si puedes.”
+Información que no debe enviarse: cédulas, teléfonos, direcciones, comentarios sensibles o datos personales.
+
+Alternativa con Telegram:
+- Evento: un nuevo apoyo fue registrado para una causa importante.
+- Mensaje: “La causa [titulo] recibió un nuevo apoyo. Consulta el estado en la plataforma.”
+- Información que no debe enviarse: datos personales detallados de los firmantes, cédulas, números de teléfono o direcciones.
